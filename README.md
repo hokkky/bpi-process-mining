@@ -28,6 +28,6 @@
 
 ## Запуск
 
-Скачайте `BPI Challenge 2017.xes.gz` со [страницы датасета](https://data.4tu.nl/articles/_/12696884/1) (лицензия CC BY 4.0), подключите его как Kaggle Dataset и запустите ноутбук. GPU не нужна, около 10 минут.
+Скачайте `BPI Challenge 2017.xes.gz` со [страницы датасета](https://data.4tu.nl/articles/_/12696884/1) (лицензия CC BY 4.0), подключите его как Kaggle Dataset и запустите ноутбук.
 
 Стек: Python, pandas, pm4py, SQL (SQLite), SciPy, matplotlib, Yandex DataLens.
